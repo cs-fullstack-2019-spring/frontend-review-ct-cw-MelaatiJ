@@ -1,0 +1,35 @@
+td
+{/*setting the table to center and height and width to give it some volume*/
+    width:100px;
+    height: 100px;
+    text-align: center;
+    font-size: 65px;
+}
+h1
+{/*set my header in the center*/
+    text-align: center;
+}
+table
+{/*setting it to auto*/
+    margin:auto;
+}
+.vertical
+{/*this created a border on the left and right*/
+    border-left: 1px solid blueviolet;
+    border-right: 1px solid blueviolet;
+}
+
+.horizontal
+{/*this created a border on the top and bottom*/
+    border-top: 1px solid blueviolet;
+    border-bottom: 1px solid blueviolet;
+}
+td:hover
+{/*when the mouse hovers over the table data it will turn a different color*/
+    background: deepskyblue;
+}
+
+/*table:hover*/
+/*{*/
+    /*background: purple;*/
+/*}*/
