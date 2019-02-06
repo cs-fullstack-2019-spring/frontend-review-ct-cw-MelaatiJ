@@ -1,3 +1,6 @@
+### POINTS: 1.5
+### Didn't detect CAT but otherwise worked great and I LOVED the Colors and wonderful comments! Nice Job!
+
 # Frontend Review CT complete CW
 
 ### Exercise 1:
